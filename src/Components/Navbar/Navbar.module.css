@@ -1,0 +1,21 @@
+
+.btn {
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.826);
+  color: white;
+  padding: 7px;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: white;
+  color: black;
+  padding: 7px 12px;
+}
+a {
+  cursor: pointer;
+}
+.navitem:hover {
+  padding: 0px 12px;
+  color: black;
+  font-size: 40px;
+}

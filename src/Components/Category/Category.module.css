@@ -1,0 +1,21 @@
+
+
+.cardContainer {
+    padding-top: 45px;
+    width: 80%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .card {
+    margin: 50px;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+
+  .cardImg{
+    width: 250px;
+  
+  }
